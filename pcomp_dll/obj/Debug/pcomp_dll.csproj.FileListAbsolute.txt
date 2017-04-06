@@ -1,0 +1,4 @@
+D:\Projects\pcomp_dll\pcomp_dll\bin\Debug\pcomp.dll
+D:\Projects\pcomp_dll\pcomp_dll\bin\Debug\pcomp.pdb
+D:\Projects\pcomp_dll\pcomp_dll\obj\Debug\pcomp.dll
+D:\Projects\pcomp_dll\pcomp_dll\obj\Debug\pcomp.pdb
