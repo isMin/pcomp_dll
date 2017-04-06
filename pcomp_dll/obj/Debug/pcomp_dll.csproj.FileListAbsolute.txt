@@ -2,3 +2,8 @@ D:\Projects\pcomp_dll\pcomp_dll\bin\Debug\pcomp.dll
 D:\Projects\pcomp_dll\pcomp_dll\bin\Debug\pcomp.pdb
 D:\Projects\pcomp_dll\pcomp_dll\obj\Debug\pcomp.dll
 D:\Projects\pcomp_dll\pcomp_dll\obj\Debug\pcomp.pdb
+C:\Users\devpower\Documents\Projects\pcomp_dll\pcomp_dll\bin\Debug\pcomp.dll
+C:\Users\devpower\Documents\Projects\pcomp_dll\pcomp_dll\bin\Debug\pcomp.pdb
+C:\Users\devpower\Documents\Projects\pcomp_dll\pcomp_dll\obj\Debug\pcomp_dll.csprojResolveAssemblyReference.cache
+C:\Users\devpower\Documents\Projects\pcomp_dll\pcomp_dll\obj\Debug\pcomp.dll
+C:\Users\devpower\Documents\Projects\pcomp_dll\pcomp_dll\obj\Debug\pcomp.pdb
