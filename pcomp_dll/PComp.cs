@@ -26,7 +26,7 @@ namespace pcomp_dll
                 if (args.Length != 2)
                 {
                     Console.WriteLine("2개의 매개변수만 입력이 가능합니다.(현재 {0}개)", args.Length);
-                    Console.WriteLine("예시) pcomp.exe file1(절대경로포함) file2(절대경로포함) <ENTER>");
+                    Console.WriteLine("예시) pcomp.exe file1 file2 <ENTER>");
                     Console.WriteLine("※ 파일이름에 띄어쓰기가 있을 경우, 별도의 매개변수로 인식할 수 있습니다.");
                     Console.WriteLine("   파일이름에서 띄어쓰기를 제거해주세요.");
                     return;
