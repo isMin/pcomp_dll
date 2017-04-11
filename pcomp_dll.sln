@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcomp_dll", "pcomp_dll\pcomp_dll.csproj", "{DA2502CB-27E1-4AA3-8D64-C379C2944815}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcomp_dll", "pcomp_dll\pcomp_dll.csproj", "{6915773F-27D9-49D9-83AA-E84B38DBC1D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA2502CB-27E1-4AA3-8D64-C379C2944815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA2502CB-27E1-4AA3-8D64-C379C2944815}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA2502CB-27E1-4AA3-8D64-C379C2944815}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA2502CB-27E1-4AA3-8D64-C379C2944815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6915773F-27D9-49D9-83AA-E84B38DBC1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6915773F-27D9-49D9-83AA-E84B38DBC1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6915773F-27D9-49D9-83AA-E84B38DBC1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6915773F-27D9-49D9-83AA-E84B38DBC1D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
