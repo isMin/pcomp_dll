@@ -7,7 +7,7 @@
     <ProjectGuid>{6915773F-27D9-49D9-83AA-E84B38DBC1D7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>pcomp</RootNamespace>
+    <RootNamespace>pfile</RootNamespace>
     <AssemblyName>pcomp</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -39,7 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PComp.cs" />
+    <Compile Include="PFile.cs" />
+    <Compile Include="PCompare.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
