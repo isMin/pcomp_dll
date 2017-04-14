@@ -45,7 +45,7 @@ namespace pcompare
 
 
                 // 비교결과를 기록할 파일 객체 생성.
-                PFile resultFile = new PFile(file1.DirectoryName + @"\Files_CompareResult.txt");
+                PFile resultFile = new PFile(file1.FileInfo.DirectoryName + @"\Files_CompareResult.txt");
 
                 bool bInit = false; // 초기화 여부(최초 1회만 수행. 파일 생성 및 초기화).
                 file1.LineNum = 0; // 파일1의 현재 라인.
@@ -88,19 +88,19 @@ namespace pcompare
                         Console.Write(data);
 
                         // 비교결과를 파일에 출력.
-                        resultFile.WriteTextFile(data);
+                        resultFile.WriteLine(data);
                     }
                     ////////////////////////////////////////////////////////////////////////////////
                 }
 
                 // StreamReader 객체 내부스트림 Close
-                file1.CloseStreamReader();
-                file2.CloseStreamReader();
+                file1.StreamReader.Close();
+                file2.StreamReader.Close();
 
                 // 두 파일의 내용이 다른게 있을 경우(객체 할당을 했을 경우) 내부스트림 Close
                 if (true == bInit)
                 {
-                    resultFile.CloseStreamWriter();
+                    resultFile.StreamWriter.Close();
                 }
                 // 두 파일의 내용이 같을 경우
                 else
